@@ -1,4 +1,4 @@
-# MS Learn Navigator
+# MS Course Navigator
 
 This browser extension enhances Microsoft Learn Course Study with a persistent sidebar TOC, progress tracking, and resume navigation.
 Base starting URL & Select a Course
@@ -26,7 +26,7 @@ Commercial redistribution of the core experience may reduce its value — please
 
 ## Install
 
-1. Clone repo
+1. Download zip
 2. Go to chrome://extensions
 3. Enable Developer Mode
 4. Load unpacked
@@ -34,4 +34,4 @@ Commercial redistribution of the core experience may reduce its value — please
 ## Usage
 
 Load the extension in Chrome (Developer Mode) and open any Microsoft Learn course:
-https://learn.microsoft.com/training/
+Example: https://learn.microsoft.com/en-us/training/courses/pl-300t00 
