@@ -1,6 +1,8 @@
 # MS Learn Navigator
 
-A browser extension that enhances Microsoft Learn with a persistent sidebar TOC, progress tracking, and resume navigation.
+This browser extension enhances Microsoft Learn Course Study with a persistent sidebar TOC, progress tracking, and resume navigation.
+Base starting URL & Select a Course
+https://learn.microsoft.com/en-us/training/courses/
 
 ## Features
 
